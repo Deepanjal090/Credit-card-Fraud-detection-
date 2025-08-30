@@ -1,0 +1,11 @@
+Detected target column: Class
+
+Class distribution:
+Class
+0    284315
+1    284315
+Name: count, dtype: int64
+
+Cross-Validation Accuracy: 98.89 %
+Cross-Validation Standard Deviation: 0.03 %
+ROC AUC: 0.9994
